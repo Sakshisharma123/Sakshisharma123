@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hello👋 I'm Sakshee 👩🏻‍💻
 
-<!--
-**Sakshisharma123/Sakshisharma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack Developer** from India 🇮🇳. I'm exploring different fields in software development and learning new skills.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+Here are the tools and technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+
+
+---
+
+
+## 🔗 You can reach me on the  following:
+
+
+<a href="https://www.linkedin.com/in/sakshi-sharma-6a14551a8" title="sakshisharma" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/saksheesharma_" target="_blank" title="sakshisharma" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
