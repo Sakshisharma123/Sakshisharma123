@@ -1,4 +1,4 @@
-### Hello👋 I'm Sakshee 👩🏻‍💻
+### Hello👋 I'm Sakshi 👩🏻‍💻
 
 I am a **Full Stack Developer** from India 🇮🇳. I'm exploring different fields in software development and learning new skills.
 
