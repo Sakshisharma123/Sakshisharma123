@@ -21,5 +21,6 @@ Here are the tools and technologies I work with:
 ## 🔗 You can reach me on the  following:
 
 
-<a href="https://www.linkedin.com/in/sakshi-sharma-6a14551a8" title="sakshisharma" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-
+<a href="https://x.com/_CloudyVista" title="sakshisharma" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/>
+</a>&nbsp;&nbsp;
